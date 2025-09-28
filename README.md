@@ -1,0 +1,9 @@
+Ronaldo Solano (Proyecto para plataforma de venta de empanadas).
+
+La Plataforma Digital D'Méndez Empanadas es un sistema integral diseñado para modernizar y optimizar las operaciones comerciales de la empresa de empanadas. Esta solución tecnológica surge de la necesidad de digitalizar el proceso de ventas, mejorar la experiencia del cliente y proporcionar herramientas de gestión eficientes para los administradores. El proyecto implementa una arquitectura robusta y escalable basada en los principios de Clean Architecture y las mejores prácticas de desarrollo de software, siguiendo los estándares establecidos por la norma ISO/IEC 12207 para procesos del ciclo de vida del software. La plataforma está diseñada utilizando tecnologías modernas de Microsoft (.NET 8, ASP.NET Core, Entity Framework Core) y se estructura mediante una arquitectura multicapa que garantiza la separación de responsabilidades, mantenibilidad y escalabilidad del sistema.
+
+Características Principales de la Arquitectura.
+
+La plataforma implementa una arquitectura multicapa basada en Clean Architecture con seis proyectos principales: DMendez.Domain (entidades y reglas de negocio), DMendez.Application (lógica de aplicación y DTOs), DMendez.Infrastructure (acceso a datos y servicios externos), DMendez.Configuration.Api (endpoints REST), DMendez.Web (interfaz web MVC), y DMendez.IoC (inyección de dependencias). El sistema utiliza .NET 8, ASP.NET Core, Entity Framework Core con SQL Server, y se integra con servicios externos como Stripe/PayPal/Azul para pagos, SendGrid para notificaciones por email, y Firebase para push notifications. Las funcionalidades principales incluyen autenticación JWT, gestión completa de menú y pedidos, carrito de compras, múltiples métodos de pago, seguimiento en tiempo real, sistema de notificaciones, panel administrativo con reportes, y arquitectura preparada para escalabilidad horizontal en la nube.
+
+Don't miss the opportunity and take a look !!
