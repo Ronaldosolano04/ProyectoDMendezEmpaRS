@@ -1,12 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace DMendez.Domain.Enums
+﻿namespace DMendez.Domain.Enums
 {
-    internal class NotificationTypeEnum
+    public enum NotificationTypeEnum
     {
+        OrderConfirmed = 1,
+        OrderInPreparation = 2,
+        OrderReady = 3,
+        OrderInDelivery = 4,
+        OrderDelivered = 5,
+        PaymentConfirmed = 6,
+        PaymentFailed = 7,
+        General = 8
     }
-}
+}  

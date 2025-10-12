@@ -1,12 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using DMendez.Domain.Common;
 
 namespace DMendez.Domain.Entities.Menu
 {
-    internal class ComboProduct
+    public class ComboProduct : BaseEntity
     {
+        public int ComboId { get; set; }
+        public int ProductId { get; set; }
+        public int Quantity { get; set; }
+
+        // Navigation Properties
+        public virtual Combo Combo { get; set; }
+        public virtual Product Product { get; set; }
     }
 }

@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\SolutionD'Mendez\DMendez.Domain\bin\Debug\net8.0\DMendez.Domain.deps.json
+C:\Users\User\source\repos\SolutionD'Mendez\DMendez.Domain\bin\Debug\net8.0\DMendez.Domain.dll
+C:\Users\User\source\repos\SolutionD'Mendez\DMendez.Domain\bin\Debug\net8.0\DMendez.Domain.pdb
+C:\Users\User\source\repos\SolutionD'Mendez\DMendez.Domain\obj\Debug\net8.0\DMendez.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SolutionD'Mendez\DMendez.Domain\obj\Debug\net8.0\DMendez.Domain.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SolutionD'Mendez\DMendez.Domain\obj\Debug\net8.0\DMendez.Domain.AssemblyInfo.cs
+C:\Users\User\source\repos\SolutionD'Mendez\DMendez.Domain\obj\Debug\net8.0\DMendez.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SolutionD'Mendez\DMendez.Domain\obj\Debug\net8.0\DMendez.Domain.sourcelink.json
+C:\Users\User\source\repos\SolutionD'Mendez\DMendez.Domain\obj\Debug\net8.0\DMendez.Domain.dll
+C:\Users\User\source\repos\SolutionD'Mendez\DMendez.Domain\obj\Debug\net8.0\refint\DMendez.Domain.dll
+C:\Users\User\source\repos\SolutionD'Mendez\DMendez.Domain\obj\Debug\net8.0\DMendez.Domain.pdb
+C:\Users\User\source\repos\SolutionD'Mendez\DMendez.Domain\obj\Debug\net8.0\ref\DMendez.Domain.dll

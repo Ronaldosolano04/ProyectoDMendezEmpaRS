@@ -1,12 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using DMendez.Domain.Common;
 
 namespace DMendez.Domain.Entities.Payments
 {
-    internal class PaymentStatus
+    public class PaymentStatus : BaseEntity
     {
+        public string Name { get; set; }
+        public string Description { get; set; }
+
+        // Navigation Properties
+        public virtual ICollection<Payment> Payments { get; set; } = new List<Payment>();
     }
 }

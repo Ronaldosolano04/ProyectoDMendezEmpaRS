@@ -1,12 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace DMendez.Domain.Enums
+﻿namespace DMendez.Domain.Enums
 {
-    internal class PaymentMethodEnum
+    public enum PaymentMethodEnum
     {
+        Cash = 1,
+        CreditCard = 2,
+        DebitCard = 3,
+        Stripe = 4,
+        PayPal = 5,
+        Azul = 6
     }
 }

@@ -1,12 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using DMendez.Domain.Common;
 
 namespace DMendez.Domain.Entities.Orders
 {
-    internal class OrderStatus
+    public class OrderStatus : BaseEntity
     {
+        public string Name { get; set; }
+        public string Description { get; set; }
+
+        // Navigation Properties
+        public virtual ICollection<Order> Orders { get; set; } = new List<Order>();
     }
 }

@@ -1,12 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using DMendez.Domain.Common;
+using DMendez.Domain.Entities.Authorization;
 
-namespace DMendez.Domain.Entities.Authorization
+namespace DMendez.Domain.Entities.Auth
 {
-    internal class Role
+    public class Role : BaseEntity
     {
+        public string Name { get; set; }
+        public string Description { get; set; }
+
+        // Navigation Properties
+        public virtual ICollection<UserRole> UserRoles { get; set; } = new List<UserRole>();
     }
 }

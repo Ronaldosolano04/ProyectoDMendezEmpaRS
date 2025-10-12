@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\SolutionD'Mendez\DMendez.Persistence\obj\Debug\net8.0\DMendez.Persistence.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SolutionD'Mendez\DMendez.Persistence\obj\Debug\net8.0\DMendez.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SolutionD'Mendez\DMendez.Persistence\obj\Debug\net8.0\DMendez.Persistence.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SolutionD'Mendez\DMendez.Persistence\obj\Debug\net8.0\DMendez.Persistence.AssemblyInfo.cs
+C:\Users\User\source\repos\SolutionD'Mendez\DMendez.Persistence\obj\Debug\net8.0\DMendez.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SolutionD'Mendez\DMendez.Persistence\obj\Debug\net8.0\DMendez.Persistence.gentestingplatformentrypointinputcache.cache
+C:\Users\User\source\repos\SolutionD'Mendez\DMendez.Persistence\obj\Debug\net8.0\DMendez.Persistence.genautoregisteredextensionsinputcache.cache
+C:\Users\User\source\repos\SolutionD'Mendez\DMendez.Persistence\obj\Debug\net8.0\AutoRegisteredExtensions.cs
+C:\Users\User\source\repos\SolutionD'Mendez\DMendez.Persistence\obj\Debug\net8.0\TestPlatformEntryPoint.cs
+C:\Users\User\source\repos\SolutionD'Mendez\DMendez.Persistence\obj\Debug\net8.0\DMendez.Persistence.sourcelink.json

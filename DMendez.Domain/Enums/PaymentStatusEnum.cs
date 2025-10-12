@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace DMendez.Domain.Enums
+﻿namespace DMendez.Domain.Enums
 {
-    internal class PaymentStatusEnum
+    public enum PaymentStatusEnum
     {
+        Pending = 1,
+        Approved = 2,
+        Rejected = 3,
+        Refunded = 4
     }
 }
